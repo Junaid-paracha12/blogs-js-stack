@@ -19,7 +19,7 @@ export default function ({post}) {
   );
 }
 export async function getStaticPaths() {
-  const res = await fetch("http://localhost:3001/api/blog");
+  const res = await fetch("https://blog-jsstack.vercel.app/api/blog");
   const data = await res.json();
   const paths = data.blogs.map((post) => ({
     params: { slug: post.slug },
