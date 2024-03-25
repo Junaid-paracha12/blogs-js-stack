@@ -1,98 +1,97 @@
-{ 
-    "blogs": [
-      {
-        "id": 1,
-        "imgsrc":"/b1.jpg",
-        "slug":"interview-with-economist-and-UX-Designer-Maya-Loviere",
-        "title":"Interview with Economist and UX Designer,Maya Loviere",
-        "text":"Maya Louviever is an Economist and UX Designer from Wellington,New Zeland.She has worked with Spotify,Nike,Chews,Makr, and Square.Mia de Silva Sat Down wit...",
-        "iconsrc":"/up.png",
-        "name" :"Demi Wllkinson.",
-        "date":"16 jan 2024"
-       },
-       {
-        "id": 2,
-        "imgsrc":"/b2.jpg",
-        "slug":"interview-with-economist-and-UX-Designer-Maya-Loviere",
-        "title":"Interview with Economist and UX Designer,Maya Loviere",
-        "text":"Maya Louviever is an Economist and UX Designer from Wellington,New Zeland.She has worked with Spotify,Nike,Chews,Makr, and Square.Mia de Silva Sat Down wit...",
-        "iconsrc":"/up.png",
-        "name" :"Demi Wllkinson.",
-        "date":"16 jan 2024"
-       },
-       {
-        "id": 3,
-        "imgsrc":"/b3.jpg",
-        "slug":"interview-with-economist-and-UX-Designer-Maya-Loviere",
-        "title":"A Relentless Pursuit of Perfection in Product Design",
-        "text":"I began to notice that there was a sharp contrast between well-made, crafted products and poorly made ones, and an even greater distinction between the people who ma..",
-        "iconsrc":"/up.png",
-        "name" :"Lana Setiner.",
-        "date":"16 jan 2024"
-       },
-       {
-        "id": 4,
-        "imgsrc":"/b4.jpg",
-        "slug":"interview-with-economist-and-UX-Designer-Maya-Loviere",
-        "title":"A Continually Unfolding History Hillview by Made by Hand",
-        "text":"A single building occupies the hillside at Hillview, a historic 240-hectare former sheep farm on Tasmania's Bruny Island. The much-lauded work of Made by Hand Architec...",
-        "iconsrc":"/up.png",
-        "name" :"Phonix Baker.",
-        "date":"16 jan 2024"
-       },
-       {
-        "id": 5,
-        "imgsrc":"/b5.jpg",
-        "slug":"interview-with-economist-and-UX-Designer-Maya-Loviere",
-        "title":"How Remote Collaboration Makes Us Better Product Designers",
-        "text":"Collaboration can make our teams stronger, and our individual designs better Remote work has made brought new challenges to remote collaboration, but thankfully..",
-        "iconsrc":"/up.png",
-        "name" :"Phonix Baker.",
-        "date":"16 jan 2024"
-       },
-       {
-        "id": 6,
-        "imgsrc":"/b6.jpg",
-        "slug":"interview-with-economist-and-UX-Designer-Maya-Loviere",
-        "title":"Best Books on Scaling Your Early- Stage Startup",
-        "text":"This collection of the best startup books for scaling your startup are packed full with valuable and actionable advice to take your business to the next level!",
-        "iconsrc":"/up.png",
-        "name" :"Phonix Baker.",
-        "date":"16 jan 2024"
-       },
-       {
-        "id": 7,
-        "imgsrc":"/b7.jpg",
-        "slug":"interview-with-economist-and-UX-Designer-Maya-Loviere",
-        "title":"How to Run a Successful Business With Your Partner",
-        "text":"Starting a business with your spouse or significant other is an exciting but delicate process and requires a great deal of faith. We spoke to a dozen successful businesses..",
-        "iconsrc":"/up.png",
-        "name" :"Phonix Baker.",
-        "date":"16 jan 2024"
-       },
-       {
-        "id": 8,
-        "imgsrc":"/b8.jpg",
-        "slug":"interview-with-economist-and-UX-Designer-Maya-Loviere",
-        "title":"Why Food Matters - Disease Prevention & Treatment",
-        "text":"Eating more plants and less meat has been tied to a longer life and a reduced risk of cardiovascular disease in a new study with a 16% lower risk of cardiovascular..",
-        "iconsrc":"/up.png",
-        "name" :"Phonix Baker.",
-        "date":"16 jan 2024"
-       },
-       {
-        "id": 9,
-        "imgsrc":"/b9.jpg",
-        "slug":"interview-with-economist-and-UX-Designer-Maya-Loviere",
-        "title":"Conversations with London Makr & Co.",
-        "text":"We sat down with London's fast-growing brand and product design studio, Makr & Co. to find out how they've used Untitled Ul to 2x their revenue...",
-        "iconsrc":"/up.png",
-        "name" :"Phonix Baker.",
-        "date":"16 jan 2024"
-       }
-    ]
-  }
-  
-
-  
-
+{
+  "blogs": [
+    {
+      "id": 1,
+      "imgsrc": "/b1.jpg",
+      "slug": "interview-with-economist-and-ux-designer-maya-loviere",
+      "title": "Interview with Economist and UX Designer,Maya Loviere",
+      "text": "Maya Louviever is an Economist and UX Designer from Wellington,New Zeland.She has worked with Spotify,Nike,Chews,Makr, and Square.Mia de Silva Sat Down wit...",
+      "iconsrc": "/up.png",
+      "name": "Demi Wllkinson.",
+      "date": "16 jan 2024",
+      "heading":"Bridging Perspectives: An Interview with Economist and UX Designer Maya Loviere",
+       "discribtion":"In today's dynamic and interconnected world, the convergence of diverse disciplines is increasingly essential for addressing complex challenges and driving innovation. One such intersection lies between economics and user experience (UX) design, where insights from both fields can offer unique perspectives on understanding human behavior and shaping products and services. In this exclusive interview, we delve into the thoughts and experiences of Maya Loviere, who seamlessly navigates between the realms of economics and UX design.Maya Loviere is a multifaceted professional with a background in economics and a passion for designing intuitive user experiences. With a rich blend of analytical rigor and creative flair, Maya brings a distinctive perspective to her work, drawing on principles from both economics and design to craft solutions that resonate with users while also achieving business objectives. Q: Maya, could you tell us about your journey and how you found yourself at the intersection of economics and UX design? A: Certainly! My journey has been quite eclectic, to say the least. I initially pursued a degree in economics, fascinated by the intricacies of markets and human decision-making. However, as I delved deeper into the field, I realized that traditional economic models often overlooked the nuances of human behavior and failed to capture the holistic user experience. This realization sparked my interest in UX design, where the focus is squarely on understanding users' needs, motivations, and behaviors to create products that truly resonate with them. Q: How do you see the relationship between economics and UX design? Are there any fundamental principles that overlap between the two",
+       "btn1":"Book Interview"      
+    },
+    {
+      "id": 2,
+      "imgsrc": "/b2.jpg",
+      "slug": "improve-your-ui-designs-kills-develop-an-eye-for-design",
+      "title": "Improve Your UI Design Skills: Develop an 'Eye' for Design",
+      "text": "Maya Louviever is an Economist and UX Designer from Wellington,New Zeland.She has worked with Spotify,Nike,Chews,Makr, and Square.Mia de Silva Sat Down wit...",
+      "iconsrc": "/up.png",
+      "name": "Demi Wllkinson.",
+      "date": "16 jan 2024"
+    },
+    {
+      "id": 3,
+      "imgsrc": "/b3.jpg",
+      "slug": "a-relentless-pursuit-of-perfection-in-product-design",
+      "title": "A Relentless Pursuit of Perfection in Product Design",
+      "text": "I began to notice that there was a sharp contrast between well-made, crafted products and poorly made ones, and an even greater distinction between the people who ma..",
+      "iconsrc": "/up.png",
+      "name": "Lana Setiner.",
+      "date": "16 jan 2024"
+    },
+    {
+      "id": 4,
+      "imgsrc": "/b4.jpg",
+      "slug": "interview-with-economist-and-ux-designer-maya-loviere",
+      "title": "A Continually Unfolding History Hillview by Made by Hand",
+      "text": "A single building occupies the hillside at Hillview, a historic 240-hectare former sheep farm on Tasmania's Bruny Island. The much-lauded work of Made by Hand Architec...",
+      "iconsrc": "/up.png",
+      "name": "Phonix Baker.",
+      "date": "16 jan 2024"
+    },
+    {
+      "id": 5,
+      "imgsrc": "/b5.jpg",
+      "slug": "interview-with-economist-and-ux-designer-maya-loviere",
+      "title": "How Remote Collaboration Makes Us Better Product Designers",
+      "text": "Collaboration can make our teams stronger, and our individual designs better Remote work has made brought new challenges to remote collaboration, but thankfully..",
+      "iconsrc": "/up.png",
+      "name": "Phonix Baker.",
+      "date": "16 jan 2024"
+    },
+    {
+      "id": 6,
+      "imgsrc": "/b6.jpg",
+      "slug": "interview-with-economist-and-ux-designer-maya-loviere",
+      "title": "Best Books on Scaling Your Early- Stage Startup",
+      "text": "This collection of the best startup books for scaling your startup are packed full with valuable and actionable advice to take your business to the next level!",
+      "iconsrc": "/up.png",
+      "name": "Phonix Baker.",
+      "date": "16 jan 2024"
+    },
+    {
+      "id": 7,
+      "imgsrc": "/b7.jpg",
+      "slug": "interview-with-economist-and-ux-designer-maya-loviere",
+      "title": "How to Run a Successful Business With Your Partner",
+      "text": "Starting a business with your spouse or significant other is an exciting but delicate process and requires a great deal of faith. We spoke to a dozen successful businesses..",
+      "iconsrc": "/up.png",
+      "name": "Phonix Baker.",
+      "date": "16 jan 2024"
+    },
+    {
+      "id": 8,
+      "imgsrc": "/b8.jpg",
+      "slug": "interview-with-economist-and-ux-designer-maya-loviere",
+      "title": "Why Food Matters - Disease Prevention & Treatment",
+      "text": "Eating more plants and less meat has been tied to a longer life and a reduced risk of cardiovascular disease in a new study with a 16% lower risk of cardiovascular..",
+      "iconsrc": "/up.png",
+      "name": "Phonix Baker.",
+      "date": "16 jan 2024"
+    },
+    {
+      "id": 9,
+      "imgsrc": "/b9.jpg",
+      "slug": "interview-with-economist-and-ux-designer-maya-loviere",
+      "title": "Conversations with London Makr & Co.",
+      "text": "We sat down with London's fast-growing brand and product design studio, Makr & Co. to find out how they've used Untitled Ul to 2x their revenue...",
+      "iconsrc": "/up.png",
+      "name": "Phonix Baker.",
+      "date": "16 jan 2024"
+    }
+  ]
+}
