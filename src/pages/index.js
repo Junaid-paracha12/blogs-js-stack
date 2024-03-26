@@ -41,11 +41,9 @@ export default function page({ data }) {
 
 export async function getServerSideProps() {
   // Fetch data from external API
-<<<<<<< HEAD
+
   const res = await fetch("http://localhost:3000/api/blog");
-=======
-  const res = await fetch("https://blogs-js-stack.vercel.app/api/blog");
->>>>>>> 4149d40852267a57201fbe0113b590f7816a2cd2
+
   const data = await res.json();
   // Pass data to the page via props
   return { props: { data: data.blogs } };
