@@ -62,7 +62,7 @@ export async function getStaticPaths() {
 
 export async function getStaticProps(context) {
   const { slug } = context.params;
-  const res = await fetch('http://localhost:3000/api/blog');
+  const res = await fetch('https://blogs-js-stack.vercel.app/api/blog');
   const data = await res.json();
   const post = data.blogs.find((post) => post.slug === slug);
 
