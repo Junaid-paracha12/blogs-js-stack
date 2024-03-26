@@ -12,7 +12,7 @@ export default function Blogs({ title, btn1, btn2, data }) {
             <button className="button-style">{btn1}</button>
           </span>
         </div>
-        <div className="grid items-start grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 md:gap-5">
+        <div className="grid items-start grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 md:gap-6">
           {data?.map((b, i) => (
             <Link href={`/blog/${b.slug}`}>
               <div

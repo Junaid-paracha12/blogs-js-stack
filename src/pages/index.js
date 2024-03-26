@@ -2,15 +2,14 @@ import Blogs from "@/components/Blogs";
 import Footer from "@/components/Footer";
 import Hero from "@/components/Hero";
 import Join from "@/components/Join";
-import Navbar from "@/components/Navbar";
+
 
 export default function page({ data }) {
-  console.log(data);
+  // console.log(data);
 
   return (
     <>
       <div className="app-container my-2 flex flex-col gap-8">
-       <Navbar />
         <Hero
           imgsrc={"/hero.jpg"}
           title={"Featured"}
@@ -33,20 +32,17 @@ export default function page({ data }) {
           text={"Join over 4,000+ startups already growing with Untitled."}
           btn={"Start your 7-day free trail"}
         />
-       <Footer />
       </div>
     </>
   );
 }
 
-export async function getServerSideProps() {
+export async function getServerSideProps(context) {
   // Fetch data from external API
-<<<<<<< HEAD
+
   const res = await fetch("http://localhost:3000/api/blog");
-=======
-  const res = await fetch("https://blogs-js-stack.vercel.app/api/blog");
->>>>>>> 4149d40852267a57201fbe0113b590f7816a2cd2
+
   const data = await res.json();
   // Pass data to the page via props
-  return { props: { data: data.blogs } };
+  return { props: { data: data } };
 }
