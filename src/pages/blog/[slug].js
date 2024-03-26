@@ -1,11 +1,8 @@
-
 import Image from "next/image";
 
 export default function ({ post }) {
-  
   return (
     <>
- 
       <div className="w-4/5 md:w-2/3 lg:w-1/2 mx-auto  my-20">
         <div className="flex flex-col gap-5">
           <h1 className="text-xl sm:text-2xl md:text-3xl lg:text-4xl text-black font-bold">
@@ -51,7 +48,6 @@ export default function ({ post }) {
           </span>
         </div>
       </div>
-      
     </>
   );
 }
@@ -69,7 +65,7 @@ export async function getStaticPaths() {
 
 export async function getStaticProps(context) {
   const { slug } = context.params;
-  const res = await fetch('https://blogs-jsstack.vercel.app/blog');
+  const res = await fetch("http://localhost:3000/api/blog");
   const data = await res.json();
   const post = data.find((post) => post.slug === slug);
 
