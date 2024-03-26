@@ -40,7 +40,10 @@ export default function page({ data }) {
 export async function getServerSideProps(context) {
   // Fetch data from external API
 
+
   const res = await fetch("http://localhost:3000/api/blog");
+
+
 
   const data = await res.json();
   // Pass data to the page via props
